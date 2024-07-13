@@ -1,1 +1,1 @@
-# Timed-Maths-Challange
+This is a simple python program that generates 10 random mathmatical expressions and displays the time taken by user to complete the challange.
